@@ -1,0 +1,11 @@
+$ Pkg update && Pkg upgrade
+$ pkg install python2
+$ pip2 install bs4
+$ pip2 install requests
+$ pip2 install mechanize
+$ Pkg install git
+$ rm -rf cr4ck
+$ git clone 
+https://github.com/Aneng025/Aneng025
+$ cd cr4ck
+$ python2 orbxd.py
